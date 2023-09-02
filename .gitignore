@@ -1,0 +1,52 @@
+# Gitignore for flask app in a virtual environment and vscode
+
+# Virtual environment
+flask-env/
+
+# Flask
+instance/
+.env
+
+# vscode
+.vscode/
+
+# Python
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+*.cpython-*
+*.cpython-*.py
+
+# Exclude all __pycache__ directories
+/__pycache__/
+/__pycache__/*
+
+
+# Data
+*.csv
+*.db
+/data/
+/data/*
+
+# Logs
+*.log
+/logs/
+/logs/*
+
+# Migration
+/migrations/
+/migrations/*
+
+/temp/
+/temp/*
+
+# Node
+node_modules/
+package-lock.json
+
+
+
+
+

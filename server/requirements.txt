@@ -1,0 +1,15 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+pytest-Flask
+Flask-Mail
+Flask-CORS
+Flask-JWT-Extended
+
+SQLAlchemy
+sqlalchemy-utils
+openpyxl
+pytest
+pandas
+python-dotenv
+
